@@ -1,0 +1,14 @@
+h1{
+  color: red;
+  font weight: bold;
+  text-shadow: 11px -9px 4px #5f84f2;
+}
+.score {
+ color: gray;
+}
+#gold {
+ color: gold;
+}
+.food {
+ color: turquoise;
+}
